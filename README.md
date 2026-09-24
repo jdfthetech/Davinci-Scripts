@@ -5,6 +5,10 @@ This will allow a user to batch convert videos
 
 These require ffmpeg to be installed.
 
+## mov2mp4.sh
+
+Converts all mov files in a directory to mp4 files and puts originals in an original directory
+
 ## mkv2mov.sh
 
 Converts all mkv files in a directory to mov files and puts originals in an original directory
